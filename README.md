@@ -11,7 +11,7 @@ For building and running the application you need:
 
 ## Running the application locally
 
-There are several ways to run an application on your local machine. One way is to run the cucumber test case is just right click on feature file and select run option.
+There are several ways to run an application on your local machine. One way is to run the cucumber test case, just right click on feature file and select run option.
 
 ## Test Case Introduction
 I have covered all the end point to test rest end point in BDD manner.  
